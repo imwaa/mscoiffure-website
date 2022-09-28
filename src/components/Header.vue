@@ -27,7 +27,7 @@
         </nav>
 
         <div class="header-content">
-            <img :src="image1">
+            <img class="img-logo" :src="image1">
             <div>
                 <a href="https://mscoiffure.setmore.com/" class="btn btn-lg btn-outline-light" type="submit">Prendre
                     un rendez-vous</a>
@@ -50,6 +50,17 @@
     justify-content: center;
     align-items: center;
     flex-direction: column;
+}
+
+@media only screen and (max-width: 767px) {
+    .img-logo {
+        width: 60%;
+    }
+
+    .header-content {
+        margin-top: 100px;
+        gap: 50px;
+    }
 }
 </style>
 

@@ -93,7 +93,7 @@
                 </p>
                 <iframe
                     src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2530.01436928724!2d5.559694751065466!3d50.64542427940219!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x47c0fa168046aaab%3A0x75034fcbe1d7550a!2sRue%20Ste%20Marguerite%2043a%2C%204000%20Li%C3%A8ge!5e0!3m2!1sfr!2sbe!4v1664386810888!5m2!1sfr!2sbe"
-                    width="450" height="450" style="border:0;" loading="lazy"
+                    width="430" height="430" style="border:0;" loading="lazy"
                     referrerpolicy="no-referrer-when-downgrade"></iframe>
             </div>
             <div class="contact-container info-box">
@@ -159,7 +159,7 @@
     display: flex;
     flex-direction: column;
     align-items: center;
-    width: 450px;
+    width: 430px;
 
 }
 
