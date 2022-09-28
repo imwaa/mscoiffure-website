@@ -59,8 +59,8 @@
     }
 
     .img-logo {
-        width: 60%;
-        margin-bottom: 200px;
+        width: 80%;
+        margin: 100px 0px;
     }
 }
 </style>

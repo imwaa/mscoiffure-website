@@ -6,9 +6,9 @@
                 des services variés
                 et de qualités. </p>
 
-            <div class="services-list justify-content-center flex-3 flex-wrap mt-3">
+            <div class="services-list justify-content-between flex-wrap mt-3">
 
-                <div class="card" style="width: 18rem;">
+                <div class="card">
                     <img :src="image1" class="card-img-top" alt="...">
                     <div class="card-body">
                         <h5 class="card-title">Coupe de Cheveux</h5>
@@ -17,7 +17,7 @@
                     </div>
                 </div>
 
-                <div class="card" style="width: 18rem;">
+                <div class="card">
                     <img :src="image2" class="card-img-top" alt="...">
                     <div class="card-body">
                         <h5 class="card-title">Coupe Barbe & Rasage</h5>
@@ -27,7 +27,7 @@
                 </div>
 
 
-                <div class="card" style="width: 18rem;">
+                <div class="card">
                     <img :src="image3" class="card-img-top" alt="...">
                     <div class="card-body">
                         <h5 class="card-title">Shampoing & Soins de cheveux</h5>
@@ -36,7 +36,7 @@
                     </div>
                 </div>
 
-                <div class="card" style="width: 18rem;">
+                <div class="card">
                     <img :src="image4" class="card-img-top" alt="...">
                     <div class="card-body">
                         <h5 class="card-title">Soins pour le visage & Massages</h5>
@@ -63,6 +63,16 @@
 .services-list {
     display: flex;
     gap: 15px;
+}
+
+.card {
+    width: 18rem;
+}
+
+@media only screen and (max-width: 767px) {
+    .card {
+        width: 100%;
+    }
 }
 </style>
 

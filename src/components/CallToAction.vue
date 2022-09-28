@@ -1,5 +1,5 @@
 <template>
-    <div class="callToAction-section text-light p-5">
+    <div class="callToAction-section text-light pt-5 pb-5">
         <div class="callToAction-container container d-flex flex-column align-items-center">
             <p>Vous savez tout!</p>
             <h1 class="text-center text-warning">Alors qu'attendez-vous?</h1>
