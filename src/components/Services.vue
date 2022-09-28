@@ -9,29 +9,30 @@
             <div class="services-list justify-content-center flex-3 flex-wrap mt-3">
 
                 <div class="card" style="width: 18rem;">
-                    <img src="../assets/images/pexels-mídia-897251.jpg" class="card-img-top" alt="...">
+                    <img src="../assets/images/pexels-photo-12464840.jpeg" class="card-img-top" alt="...">
                     <div class="card-body">
-                        <h5 class="card-title">Coupe Barbe & Rasage</h5>
-                        <p class="card-text">Some quick example text to build on the card title and make up the bulk of
-                            the card's content.</p>
+                        <h5 class="card-title">Coupe de Cheveux</h5>
+                        <p class="card-text">Venez donner un style propre et élégant à vos cheveux. Que ça soit une
+                            coupe classique ou un dégradé, nous maitrisons les siceaux et la tondeuse.</p>
                     </div>
                 </div>
 
                 <div class="card" style="width: 18rem;">
-                    <img src="../assets/images/pexels-photo-12464840.jpeg" class="card-img-top" alt="...">
+                    <img src="../assets/images/pexels-mídia-897251.jpg" class="card-img-top" alt="...">
                     <div class="card-body">
-                        <h5 class="card-title">Coupe de Cheveux</h5>
-                        <p class="card-text">Some quick example text to build on the card title and make up the bulk of
-                            the card's content.</p>
+                        <h5 class="card-title">Coupe Barbe & Rasage</h5>
+                        <p class="card-text">Restez à votre meilleur avec une taille de barbe régulière ou un rasage
+                            complet de ce dernier. Nous maitrisons la lame à la perfection.</p>
                     </div>
                 </div>
+
 
                 <div class="card" style="width: 18rem;">
                     <img src="../assets/images/arkadiy barbershop shampoo.png" class="card-img-top" alt="...">
                     <div class="card-body">
                         <h5 class="card-title">Shampoing & Soins de cheveux</h5>
-                        <p class="card-text">Some quick example text to build on the card title and make up the bulk of
-                            the card's content.</p>
+                        <p class="card-text">Prenez soin de vos cheveux avec nos produits specialement améliorer votre
+                            cuire chevelu.</p>
                     </div>
                 </div>
 
@@ -39,9 +40,9 @@
                     <img src="../assets/images/The-best-essential-facial-services-for-men-Best-Barbershop.jpg"
                         class="card-img-top" alt="...">
                     <div class="card-body">
-                        <h5 class="card-title">Shampoing & Soins de cheveux</h5>
-                        <p class="card-text">Some quick example text to build on the card title and make up the bulk of
-                            the card's content.</p>
+                        <h5 class="card-title">Soins pour le visage & Massages</h5>
+                        <p class="card-text">Venez passer un moment de détente dans notre salon. Nous vous proposerons
+                            des soins pour le visage ainsi qu'un massage.</p>
                     </div>
                 </div>
 

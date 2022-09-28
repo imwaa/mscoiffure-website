@@ -11,7 +11,8 @@
                 </button>
                 <div class="collapse navbar-collapse justify-content-end" id="navbarSupportedContent">
                     <div class="" role="search">
-                        <button class="btn btn-light" type="submit">Reserver</button>
+                        <button class="btn btn-sm btn-outline-light mx-3" type="submit">Instagram</button>
+                        <button class="btn btn-sm btn-outline-danger" type="submit">Tiktok</button>
                     </div>
                 </div>
             </div>
@@ -20,7 +21,8 @@
         <div class="header-content">
             <img src="../assets/logo.png">
             <div>
-                <button class="btn btn-lg btn-light" type="submit">Prendre un rendez-vous</button>
+                <button class="btn btn-lg btn-outline-light" type="submit">Prendre
+                    un rendez-vous</button>
             </div>
         </div>
     </div>
@@ -28,7 +30,7 @@
 
 <style scoped>
 .header-container {
-    background-image: url("../assets/pexels-nikolaos-dimou-1319459.jpg");
+    background-image: url("../assets/images/allef-vinicius-IvQeAVeJULw-unsplash.jpg");
     height: 100vh;
     background-position: center;
     background-repeat: no-repeat;
@@ -36,7 +38,6 @@
 }
 
 .header-content {
-    margin-top: 100px;
     display: flex;
     justify-content: center;
     align-items: center;
