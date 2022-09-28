@@ -53,13 +53,14 @@
 }
 
 @media only screen and (max-width: 767px) {
-    .img-logo {
-        width: 60%;
+    .header-content {
+        align-content: center;
+        height: 80%;
     }
 
-    .header-content {
-        margin-top: 100px;
-        gap: 50px;
+    .img-logo {
+        width: 60%;
+        margin-bottom: 200px;
     }
 }
 </style>
