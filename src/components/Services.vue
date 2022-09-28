@@ -13,7 +13,7 @@
                     <div class="card-body">
                         <h5 class="card-title">Coupe de Cheveux</h5>
                         <p class="card-text">Venez donner un style propre et élégant à vos cheveux. Que ça soit une
-                            coupe classique ou un dégradé, nous maitrisons les siceaux et la tondeuse.</p>
+                            coupe classique ou un dégradé, nous maitrisons les ciseaux et la tondeuse.</p>
                     </div>
                 </div>
 
@@ -31,7 +31,8 @@
                     <img :src="image3" class="card-img-top" alt="...">
                     <div class="card-body">
                         <h5 class="card-title">Shampoing & Soins de cheveux</h5>
-                        <p class="card-text">Prenez soin de vos cheveux avec nos produits specialement améliorer votre
+                        <p class="card-text">Prenez soin de vos cheveux avec nos produits specialement conçu pour
+                            améliorer votre
                             cuire chevelu.</p>
                     </div>
                 </div>
@@ -40,7 +41,8 @@
                     <img :src="image4" class="card-img-top" alt="...">
                     <div class="card-body">
                         <h5 class="card-title">Soins pour le visage & Massages</h5>
-                        <p class="card-text">Venez passer un moment de détente dans notre salon. Nous vous proposerons
+                        <p class="card-text">Venez passer un bon moment de détente dans notre salon. Nous vous
+                            proposerons
                             des soins pour le visage ainsi qu'un massage.</p>
                     </div>
                 </div>

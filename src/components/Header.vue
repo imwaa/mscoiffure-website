@@ -6,7 +6,7 @@
                 <a class="navbar-brand text-light" href="#">MS COIFFURE</a>
                 <div class=" justify-content-end" id="navbarSupportedContent">
                     <div class="" role="search">
-                        <a href="http://" class="mx-3">
+                        <a href="https://www.instagram.com/m.s_coiffeur" class="mx-3">
                             <svg xmlns="http://www.w3.org/2000/svg" width="20" height="20" fill="currentColor"
                                 class="bi bi-instagram text-light" viewBox="0 0 16 16">
                                 <path
@@ -14,7 +14,7 @@
                             </svg>
                         </a>
 
-                        <a href="">
+                        <a href="https://www.tiktok.com/@momo_coiffeur">
                             <svg xmlns="http://www.w3.org/2000/svg" width="20" height="20" fill="currentColor"
                                 class="bi bi-tiktok text-light" viewBox="0 0 16 16">
                                 <path
@@ -50,6 +50,10 @@
     justify-content: center;
     align-items: center;
     flex-direction: column;
+}
+
+.img-logo {
+    margin: 100px 0px;
 }
 
 @media only screen and (max-width: 767px) {
