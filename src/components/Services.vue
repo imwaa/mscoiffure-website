@@ -9,7 +9,7 @@
             <div class="services-list justify-content-center flex-3 flex-wrap mt-3">
 
                 <div class="card" style="width: 18rem;">
-                    <img src="../assets/images/pexels-photo-12464840.jpeg" class="card-img-top" alt="...">
+                    <img :src="image1" class="card-img-top" alt="...">
                     <div class="card-body">
                         <h5 class="card-title">Coupe de Cheveux</h5>
                         <p class="card-text">Venez donner un style propre et élégant à vos cheveux. Que ça soit une
@@ -18,7 +18,7 @@
                 </div>
 
                 <div class="card" style="width: 18rem;">
-                    <img src="../assets/images/pexels-mídia-897251.jpg" class="card-img-top" alt="...">
+                    <img :src="image2" class="card-img-top" alt="...">
                     <div class="card-body">
                         <h5 class="card-title">Coupe Barbe & Rasage</h5>
                         <p class="card-text">Restez à votre meilleur avec une taille de barbe régulière ou un rasage
@@ -28,7 +28,7 @@
 
 
                 <div class="card" style="width: 18rem;">
-                    <img src="../assets/images/arkadiy barbershop shampoo.png" class="card-img-top" alt="...">
+                    <img :src="image3" class="card-img-top" alt="...">
                     <div class="card-body">
                         <h5 class="card-title">Shampoing & Soins de cheveux</h5>
                         <p class="card-text">Prenez soin de vos cheveux avec nos produits specialement améliorer votre
@@ -37,8 +37,7 @@
                 </div>
 
                 <div class="card" style="width: 18rem;">
-                    <img src="../assets/images/The-best-essential-facial-services-for-men-Best-Barbershop.jpg"
-                        class="card-img-top" alt="...">
+                    <img :src="image4" class="card-img-top" alt="...">
                     <div class="card-body">
                         <h5 class="card-title">Soins pour le visage & Massages</h5>
                         <p class="card-text">Venez passer un moment de détente dans notre salon. Nous vous proposerons
@@ -66,3 +65,11 @@
     gap: 15px;
 }
 </style>
+
+<script setup>
+import image1 from '../../public/images/pexels-photo-12464840.jpeg'
+import image2 from '../../public/images/pexels-mídia-897251.jpg'
+import image3 from '../../public/images/arkadiy barbershop shampoo.png'
+import image4 from '../../public/images/The-best-essential-facial-services-for-men-Best-Barbershop.jpg'
+
+</script>

@@ -6,7 +6,8 @@
             <h1 class="text-center">Prenez un rendez-vous chez nous et evitez la file d'attente!</h1>
             <p class="mt-3">Parce que c'est le moment ou jamais!</p>
             <div class="mt-3">
-                <button class="btn btn-lg btn-warning" type="submit">Prendre un rendez-vous</button>
+                <a href="https://mscoiffure.setmore.com/" class="btn btn-lg btn-warning" type="submit">Prendre un
+                    rendez-vous</a>
             </div>
         </div>
     </div>
