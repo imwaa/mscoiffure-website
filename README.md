@@ -1,5 +1,4 @@
 # MS COIFFURE - Barbershop
 
-![image](https://user-images.githubusercontent.com/69726409/192964391-0b3744aa-4204-4f72-a5d6-3e65a9beba5c.png)
-
+![image](https://user-images.githubusercontent.com/69726409/192965323-e53a7297-ae41-4d97-b6dc-57ad6c777949.png)
 
