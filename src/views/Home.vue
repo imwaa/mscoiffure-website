@@ -2,8 +2,8 @@
     <Header></Header>
     <Services></Services>
     <Infos></Infos>
-    <Gallery></Gallery>
     <CallToAction></CallToAction>
+    <Gallery></Gallery>
     <Footer></Footer>
 </template>
 

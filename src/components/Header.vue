@@ -3,10 +3,10 @@
         <!-- NAVBAR -->
         <nav class=" navbar navbar-dark navbar-expand-lg">
             <div class="container">
-                <a class="navbar-brand text-light" href="#">MS COIFFURE</a>
+                <a class="navbar-brand text-light" href="#"></a>
                 <div class=" justify-content-end" id="navbarSupportedContent">
                     <div class="" role="search">
-                        <a href="https://www.instagram.com/m.s_coiffeur" class="mx-3">
+                        <a href="https://www.instagram.com/m.s_coiffeur" class="mx-4">
                             <svg xmlns="http://www.w3.org/2000/svg" width="20" height="20" fill="currentColor"
                                 class="bi bi-instagram text-light" viewBox="0 0 16 16">
                                 <path
@@ -63,7 +63,7 @@
     }
 
     .img-logo {
-        width: 80%;
+        width: 95%;
         margin: 100px 0px;
     }
 }
